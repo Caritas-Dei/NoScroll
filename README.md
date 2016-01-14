@@ -1,2 +1,2 @@
-# Unscrollable
-A simple site design where you never have to scroll
+# NoScroll
+A simple site design where scrolling is minimal
